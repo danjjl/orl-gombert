@@ -28,7 +28,7 @@ theme = 'agnes'
 [[params.feature]]
 	FeatureTitle = "Expertises"
     FeatureEnvironment = "ul"
-	FeatureDescription = "<li>Oreille, nez, gorge</li><li>Ultrason cervicale</li><li>Audiométrie</li>"
+	FeatureDescription = "<li>Nez, gorge, oreilles</li><li>Ultrason cervicale</li><li>Audiométrie</li>"
 	FeatureImage = "images/feature-3.png"
 	FeatureLink = "#expertise"
 	
