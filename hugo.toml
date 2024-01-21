@@ -15,7 +15,7 @@ theme = 'agnes'
 
 [[params.feature]]
 	FeatureTitle = "Adresse"
-	FeatureDescription = "<a href='https://maps.app.goo.gl/jFXLACx2ugGXcYUEA' target='_blank'>Chemin des Terrases 1 <br> 1110 Morges</a>"
+	FeatureDescription = "<a href='https://maps.app.goo.gl/jFXLACx2ugGXcYUEA' target='_blank'>Chemin des Terrasses 1 <br> 1110 Morges</a>"
 	FeatureImage = "images/feature-1.png"
 	FeatureLink = "#adresse"
 	
