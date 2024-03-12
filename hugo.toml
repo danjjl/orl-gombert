@@ -21,7 +21,7 @@ theme = 'agnes'
 	
 [[params.feature]]
 	FeatureTitle = "Rendez-vous"
-	FeatureDescription = "Tous les jours de 8h à 17h <br><a href='tel:+41218014971'>021 801 49 71</a><br><a href='mailto:morges@orl-gombert.ch'>morges@orl-gombert.ch</a>"
+	FeatureDescription = "Tous les jours de 8h à 19h <br><a href='tel:+41218014971'>021 801 49 71</a><br><a href='mailto:morges@orl-gombert.ch'>morges@orl-gombert.ch</a>"
 	FeatureImage = "images/feature-2.png"
 	FeatureLink = "#rdv"
 
