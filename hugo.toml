@@ -3,7 +3,7 @@ languageCode = 'en-fr'
 title = 'Dre. MD Edwige Gombert - ORL Morges'
 theme = 'agnes'
 [params]
-	authorName = "Jonathan Dan"
+	Author = "Jonathan Dan"
 
 [params.content]
 	LeadTitle = "ORL Morges"
