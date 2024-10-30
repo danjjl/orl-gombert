@@ -1,3 +1,13 @@
 images: 
   - image: images/carousel/profil750.jpg
     content_html: ""
+  - image: images/carousel/entree.jpg
+    content_html: ""
+  - image: images/carousel/attente.jpg
+    content_html: ""
+  - image: images/carousel/hall.jpg
+    content_html: ""
+  - image: images/carousel/siege.jpg
+    content_html: ""
+  - image: images/carousel/porte.jpg
+    content_html: ""
