@@ -21,7 +21,7 @@ theme = 'agnes'
 	
 [[params.feature]]
 	FeatureTitle = "Rendez-vous"
-	FeatureDescription = "Tous les jours de 8h à 18h <br><a href='tel:+41218014971'>021 801 49 71</a>"
+	FeatureDescription = "<ul><li>Lundi: 13h30 - 16h30</li><li>Mardi & Mercredi: 8h-12h & 13h30-16h30</li><li>Jeudi: 8h00 - 18h00</li></ul><a href='tel:+41218014971'>021 801 49 71</a>"
 	FeatureImage = "images/feature-2.png"
 	FeatureLink = "#rdv"
 
